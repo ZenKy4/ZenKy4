@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on: **projects related to educational technology, gamification, and mobile apps that create social impact**  
 - 🤔 I’m looking for help with: **improving my skills in backend development and cloud deployment**  
 - 💬 Ask me about: **my thesis project, mobile app development, or anything related to tech and innovation**  
-- 📫 How to reach me: **[louisecalica523@gmail.com] | [/https://www.instagram.com/luwiswswsw_/?hl=enhttps://www.linkedin.com/in/louise-calica-5707a237b//GitHub/]**  
+- 📫 How to reach me: **[louisecalica523@gmail.com]**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I enjoy playing bass and exploring how technology can be used for creative and meaningful projects.**  
 

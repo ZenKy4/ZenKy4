@@ -11,13 +11,9 @@
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I enjoy playing bass and exploring how technology can be used for creative and meaningful projects.**  
 
-## 📫 Connect with me  
+## 📫 Connect with me
 
-<p align="left">
-  <a href="https://facebook.com/kornybip19" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mark-florence-tablate" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luwiswswsw4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-calica-5707a237b/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zenky_4)
+
